@@ -22,5 +22,4 @@ int main(void)
     printf("奇数个数= %d\n", count);
     printf("奇数平均值= %d\n", num1 / count);
     printf("偶数和= %d\n", num2);
-    return 0;
 }
